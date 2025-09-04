@@ -1,2 +1,5 @@
 # testrepo2
 Repositorio de pruebas
+
+## Info
+Este es un repositorio para conocer las funcionalidades de github
